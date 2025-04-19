@@ -1,3 +1,4 @@
+![Demo of Urban Optimizer](<urban planner.gif>)
 # AI Urban Planner: Smart City Optimization Platform
 
 ## Overview
@@ -106,3 +107,4 @@ The Dashboard provides metrics such as:
 - Multi-objective optimization for balanced city development
 - Extended weather and environmental impact modeling
 - Advanced public transportation simulation
+
